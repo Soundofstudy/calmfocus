@@ -1,8 +1,8 @@
 export default function Page() {
   return (
-    <main style={{ padding: '2rem', maxWidth: '600px', margin: '0 auto' }}>
-      <h1>Welcome to CalmFocus</h1>
-      <p>This is a clean working starter page for deployment.</p>
+    <main style={{ padding: '2rem' }}>
+      <h1>CalmFocus is live 🎉</h1>
+      <p>This is a working Vercel setup using Next.js 13 with app directory.</p>
     </main>
   );
 }
